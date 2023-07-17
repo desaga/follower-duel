@@ -57,7 +57,7 @@ data = [
         'name': 'Neymar',
         'follower_count': 138,
         'description': 'Footballer',
-        'country': 'Brasil'
+        'country': 'Brazil'
     },
     {
         'name': 'National Geographic',
@@ -279,7 +279,7 @@ data = [
         'name': 'Ronaldinho',
         'follower_count': 51,
         'description': 'Footballer',
-        'country': 'Brasil'
+        'country': 'Brazil'
     },
     {
         'name': 'Maluma',
